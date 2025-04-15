@@ -1,4 +1,4 @@
-- 👋 **Hi**, There, I'm @**Bizartjo**
+- 👋 **Hi**, There, I'm @**Jyothi Vishnureddy**
   
 - ## 🚀 About Me
 I'm a **data-driven problem solver** with expertise in **Python, Power BI, and data engineering**. I thrive on transforming raw data into meaningful insights through **advanced analytics** and **interactive visualizations**.
